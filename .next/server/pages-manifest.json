@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/authentification/connexion": "pages/authentification/connexion.js",
+  "/authentification/inscription": "pages/authentification/inscription.js",
+  "/": "pages/index.html",
+  "/interface/candidat": "pages/interface/candidat.html",
+  "/interface/recruteur/allJobs": "pages/interface/recruteur/allJobs.js",
+  "/interface/recruteur": "pages/interface/recruteur.html",
+  "/interface/recruteur/recrutor": "pages/interface/recruteur/recrutor.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
